@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producer-server/producer-server.iml" filepath="$PROJECT_DIR$/producer-server/producer-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-server/ribbon-server.iml" filepath="$PROJECT_DIR$/ribbon-server/ribbon-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/zuul-server/zuul-server.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,5 +1,8 @@
 package com.wl.producerserver.dto;
 
+import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.stereotype.Component;
+
 import java.io.Serializable;
 
 /**

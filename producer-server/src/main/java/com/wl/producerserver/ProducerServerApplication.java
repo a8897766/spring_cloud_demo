@@ -23,8 +23,8 @@ public class ProducerServerApplication {
         SpringApplication.run(ProducerServerApplication.class, args);
     }
 
-    @Value("${server.port}")
-    String port;
+//    @Value("${server.port}")
+//    String port;
 
     @GetMapping(value = "/hi")
     @ResponseBody
@@ -34,7 +34,7 @@ public class ProducerServerApplication {
         user.setAge(11);
         Map map = new HashMap();
         map.put("user",user);
-        map.put("port",port);
+//        map.put("port",port);
         return map;
     }
 

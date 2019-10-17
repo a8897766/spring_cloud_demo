@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="057e9d0b-f521-454d-8330-5ed26148599c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer-server/src/main/resources/application.yml1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/producer-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/producer-server/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/producer-server/src/main/java/com/wl/producerserver/ProducerServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/producer-server/src/main/java/com/wl/producerserver/ProducerServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/producer-server/src/main/java/com/wl/producerserver/dto/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/producer-server/src/main/java/com/wl/producerserver/dto/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/producer-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/producer-server/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producer-server/src/main/resources/application.yml1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/producer-server/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/producer-server/src/main/resources/bootstrap.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/hystrix/target/" />
@@ -42,9 +29,10 @@
       <file leaf-file-name="ProducerServerApplication.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/producer-server/src/main/java/com/wl/producerserver/ProducerServerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="759">
+              <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
               <folding>
+                <element signature="e#757#758#0" expanded="true" />
                 <element signature="e#833#834#0" expanded="true" />
               </folding>
             </state>
@@ -54,8 +42,20 @@
       <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/producer-server/src/main/resources/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="420">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/producer-server/src/main/java/com/wl/producerserver/dto/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,6 +65,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/producer-server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -97,12 +106,12 @@
         <option value="$PROJECT_DIR$/ribbon-server/pom.xml" />
         <option value="$PROJECT_DIR$/ribbon-server/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/producer-server/src/main/java/com/wl/producerserver/dto/User.java" />
-        <option value="$PROJECT_DIR$/producer-server/pom.xml" />
-        <option value="$PROJECT_DIR$/producer-server/src/main/java/com/wl/producerserver/ProducerServerApplication.java" />
         <option value="$PROJECT_DIR$/producer-server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/config-server/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/config-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/producer-server/pom.xml" />
         <option value="$PROJECT_DIR$/producer-server/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/producer-server/src/main/java/com/wl/producerserver/ProducerServerApplication.java" />
       </list>
     </option>
   </component>
@@ -121,6 +130,20 @@
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="config-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="producer-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
@@ -135,6 +158,15 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="ribbon-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zuul-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zuul-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -279,7 +311,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ProducerServerApplication">
+  <component name="RunManager" selected="Spring Boot.ZuulServerApplication">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -365,12 +397,12 @@
       <workItem from="1570874320875" duration="599000" />
       <workItem from="1571019829273" duration="1105000" />
       <workItem from="1571023282596" duration="11430000" />
-      <workItem from="1571190425623" duration="4386000" />
+      <workItem from="1571190425623" duration="9757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29515000" />
+    <option name="totallyTimeSpent" value="34886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -393,7 +425,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2857143" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26390404" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293348" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17430703" />
@@ -481,6 +513,7 @@
         <state relative-caret-position="720">
           <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
           <folding>
+            <element signature="e#757#758#0" expanded="true" />
             <element signature="e#833#834#0" expanded="true" />
           </folding>
         </state>
@@ -689,27 +722,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/producer-server/src/main/java/com/wl/producerserver/dto/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ribbon-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
           <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/producer-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -747,18 +763,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/producer-server/src/main/java/com/wl/producerserver/dto/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/producer-server/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="420">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/producer-server/src/main/java/com/wl/producerserver/ProducerServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="759">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
           <folding>
+            <element signature="e#757#758#0" expanded="true" />
             <element signature="e#833#834#0" expanded="true" />
           </folding>
         </state>

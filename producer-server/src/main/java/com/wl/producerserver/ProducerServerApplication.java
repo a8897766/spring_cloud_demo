@@ -25,6 +25,9 @@ public class ProducerServerApplication {
 
 //    @Value("${server.port}")
 //    String port;
+//
+//    @Value("${spring.redis.host}")
+//    String redisURL;
 
     @GetMapping(value = "/hi")
     @ResponseBody
@@ -35,6 +38,7 @@ public class ProducerServerApplication {
         Map map = new HashMap();
         map.put("user",user);
 //        map.put("port",port);
+//        map.put("redisURL",redisURL);
         return map;
     }
 

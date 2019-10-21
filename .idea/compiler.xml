@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config-server" />
         <module name="eureka-server" />
+        <module name="feign-server" />
         <module name="producer-server" />
         <module name="ribbon-server" />
         <module name="springcloud" />
@@ -17,6 +18,7 @@
     <bytecodeTargetLevel>
       <module name="config-server" target="1.8" />
       <module name="eureka-server" target="1.8" />
+      <module name="feign-server" target="1.8" />
       <module name="hystrix" target="1.8" />
       <module name="hystrix-server" target="1.8" />
       <module name="producer-server" target="1.8" />
